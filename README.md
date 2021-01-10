@@ -12,3 +12,4 @@
 ## Messaging
 
 - Matrix (https://matrix.org/) - alternative to Slack
+- Cabal (https://cabal.chat/) - alternative to Slack
